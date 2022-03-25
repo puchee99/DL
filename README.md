@@ -1,2 +1,2 @@
 # DL
-DL examples using Pytorch
+DL examples using Pytorch.
